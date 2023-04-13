@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+monobank:
+  token: "uykg1TcnUSpjPArNQV1G8bXeBgldyG_cNkc4I6MRlFjk"
+
+localtunnel:
+  webHookUrl: "https://065e-176-227-245-44.eu.ngrok.io/webhook"
+
+postgresql:
+  host: localhost
+  port: 5432
+  dbname: mono-app
+  user: postgres
+  password: postgres
